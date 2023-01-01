@@ -1,5 +1,5 @@
 # Minecraft Server 1.19.2 Forge
-Este repositorio contiene los archivos que necesita el usuario debe instalar en Minecraft para poder jugar al servidor.
+Este repositorio contiene los archivos que el usuario debe instalar en Minecraft para poder jugar al servidor.
 
 ## Lista mods
     - Just Enough Items (JEI)
