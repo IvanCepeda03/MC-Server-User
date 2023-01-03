@@ -31,3 +31,6 @@ Este repositorio contiene los archivos que el usuario debe instalar en Minecraft
     - Bookshelf
     - Kotlin
     - libIPN
+    - Emotecraft
+    - PlayerAnimator
+    - bendy-lib
